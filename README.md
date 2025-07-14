@@ -2,13 +2,13 @@
 
 ## 📌 Sumário
 
-- [Descrição](#descrição)
-- [Algoritmo](#algoritmo)
-- [Estrutura dos Arquivos](#estrutura-dos-arquivos)
-- [Montagem e Execução](#montagem-e-execução)
-- [Exemplo de Saída](#exemplo-de-saída)
-- [Requisitos](#requisitos)
-- [Licença](#licença)
+- [Descrição](#-descrição)
+- [Algoritmo](#-algoritmo)
+- [Estrutura dos Arquivos](#-estrutura-dos-arquivos)
+- [Montagem e Execução](#%EF%B8%8F-montagem-e-execução)
+- [Exemplo de Saída](#%EF%B8%8F-exemplo-de-saída)
+- [Requisitos](#-requisitos)
+- [Licença](#-licença)
 
 ---
 
